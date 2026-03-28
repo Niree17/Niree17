@@ -48,7 +48,7 @@
 ---
 ### 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/chavalam-nireekshana-123062290  
-- 📧 Email: Chavalamnireekshana@gmail.com  
+- 📧 Email: chavalamnireekshana@gmail.com  
 
 ---
 
