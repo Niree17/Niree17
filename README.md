@@ -6,11 +6,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
-<h3 align="center">AI/ML Enthusiast | Deep Learning | Java Developer</h3>
-
----
-
-🚀 Passionate about building intelligent systems that solve real-world problems using AI & Machine Learning.
+<p align="center">
+<i>Building intelligent systems that solve real-world problems</i>
+</p>
 
 ---
 
