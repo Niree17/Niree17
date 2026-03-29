@@ -16,40 +16,46 @@
 
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE (AI & ML) student at MLR Institute of Technology (2022–2026)
-- 💡 Strong interest in Deep Learning, AI Systems & Data-driven solutions
 - 🤝 Skilled in teamwork, communication, and problem-solving
 - 🌱 Currently exploring advanced AI concepts and real-world applications
 
 ---
 
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,sql" /><br><br>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
 
-  <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF1744?style=for-the-badge&logo=keras&logoColor=white" /><br><br>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=flask,git,mysql,vscode" /><br><br>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
-### 🚀 Focus Areas
-- Artificial Intelligence & Machine Learning  
-- Deep Learning Applications  
-- Real-world Problem Solving  
-- Building Scalable AI Systems  
+### 🧠 How I Approach Problems
 
+I don’t start with code. I start with the problem.
+
+→ Understand the real-world need  
+→ Break it into simple parts  
+→ Apply AI only where it adds value  
+
+I believe **simple, useful systems beat complex unused ones**.
+
+---
+### 📌 What Drives Me
+
+- Curiosity to explore how things work  
+- Interest in solving meaningful problems  
+- Desire to build systems that people can actually use  
 ---
 ### 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/chavalam-nireekshana-123062290  
 - 📧 Email: chavalamnireekshana@gmail.com  
 
 ---
-
-✨ “Building smart solutions with AI to make real-world impact.”
+<p align="center">
+✨ "Turning ideas into intelligent systems that solve real problems."
+</p>
